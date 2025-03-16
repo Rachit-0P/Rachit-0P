@@ -1,4 +1,4 @@
-# 🚀 **Code like a machine, think like an artist, and live like a legend.**  
+🚀 **Code like a machine, think like an artist, and live like a legend.
 
 ## Hi there, I'm **Rachit Kushwaha** 👋  
 #### 🛠️ Tech Enthusiast | 🎨 Graphics Designer | 🚀 Lifelong Learner  
