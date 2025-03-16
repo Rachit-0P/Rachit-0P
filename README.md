@@ -1,45 +1,31 @@
-<!-- 🚀 Welcome to Rachit's GitHub Realm -->
+# Hi there 👋 I'm **Rachit Kushwaha**  
 
-# 🚀 Rachit 0P 👨‍💻
+**🛠️ Tech Enthusiast | Graphics Designer**  
 
-> _"Code like a machine, think like an artist, and live like a legend."_  
-
-## 🧠 Who Am I?  
-🕵️‍♂️ Just a **B.Tech ECE Student** trying to bend the matrix.
-🎨 **Graphic Designer** | Thumbnails that click & convert.  
-📸 **Photography + Memes** | Engineering life in a nutshell.  
-💻 **Tech Enthusiast** | ROM flashing, custom setups & optimization.  
-🎮 **Casual Gamer** | CODM & BGMI—when life needs a respawn.  
+## 💫 About Me:
+- 🏡 **From:** India  
+- 💻 **Hobbies:** Coding, Editing, Learning New Skills
+- 🎓 **Age:** 18  
+- 🧑‍🎓 **Profession:** Student    
 
 ---
 
-## 🔥 My Arsenal  
-🖌 **Design** → Photoshop, ibis PaintX
-💡 **Tech** → AI Tools, Custom ROMs, PC Tweaks  
-🎬 **Video Editing** → Premiere pro, Capcut
-📈 **Self-Improvement** → Productivity, Study Hacks & Growth Mindset  
+## 🌐 Socials  
+[Insta](https://instagram.com/rachit_unavailable) | [Telegram](https://t.me/hyper_x_rachit)  
 
 ---
 
-## 📌 Current Mission  
-🛠 **Learning Web Development**  
-💰 **Scaling My Graphic Design Business**  
-💪 **Balancing Studies, Fitness & Hustle**  
+## 💻 Skills
+Thumbnail Designer, Video Editor , Graphics Designer, Leaning More...
 
 ---
 
 ## 📊 GitHub Stats  
-📈 _**Turning caffeine into code...**_  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rachit_0P&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rachit_0P&show_icons=true&theme=radical)  
+| ![Rachit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rachit_0P&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rachit_0P&theme=dark&hide_border=false) |
+|:--:|:--:|
 
 ---
 
-## 🚀 Let’s Connect  
-📷 **Instagram** → [@rachit_unavailable](https://www.instagram.com/rachit_unavailable)  
-💼 **Graphic Design Work?** → DM on Instagram  
-📩 **Email** → [kushwaharachit80@gmail.com]  
-
----
-
-#### 🕶️ _"Not just another dev—building my own legend."_
+## 🔥 Language Usage  
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachit_0P&theme=dark&hide_border=false&layout=compact" height="180" width="400"> | <img src="https://github-contributor-stats.vercel.app/api?username=Rachit_0P&limit=5&theme=dark&combine_all_yearly_contributions=true" height="180" width="400"> |
+|:--:|:--:|
